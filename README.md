@@ -1,7 +1,7 @@
 ### OLÁ SEJA BEM-VINDO <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Aqui é o lugar que o filho chora e a mãe não vê :disappointed_relieved:
 
-- :joy: Programo em HTML e CSS, e sou garoto de programa :joy::joy:
+- :joy: Programo em HTML e CSS, e sou garoto de programa :joy:
 - 👨‍💻 &nbsp; Atualmente estou aprendendo JavaScript :sleepy:
 
 
